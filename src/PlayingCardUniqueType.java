@@ -2,5 +2,6 @@ public enum PlayingCardUniqueType {
     ACE,
     KING,
     QUEEN,
-    JACK
+    JACK,
+    SIXTY_SEVEN
 }
